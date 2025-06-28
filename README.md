@@ -1,4 +1,4 @@
-# DevOpsCourse2025_Lab-5
+# DevOpsCourse2025_Lab-6
 Laboratory #6
 
 ## 📜 Description
@@ -29,8 +29,13 @@ Ansible roles + CI
 ## 🖼 Screenshots
 <div align="center">
 
-| ![image](https://github.com/user-attachments/assets/4067be18-24d6-449e-b485-d1c1889ef191) | 
+| ![image](https://github.com/user-attachments/assets/b17bcf1d-d59d-404e-aa83-5391cd36e055) | 
 |:-:|
 | *Ansible output* |
+
+| ![image](https://github.com/user-attachments/assets/820258e9-2802-483b-8db4-0732775f810f) |
+|:-:|
+| *GitHub Actions - Workflow runs* |
+
 
 </div>
